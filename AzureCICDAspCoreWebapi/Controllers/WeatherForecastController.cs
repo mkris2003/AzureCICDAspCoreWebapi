@@ -26,7 +26,7 @@ namespace AzureCICDAspCoreWebapi.Controllers
         [HttpGet]
         public string Get()
         {
-            return "OM Namo Narayanaya, ON NamaSivayya, ON Namo Brahmaya, OM OM OM OM OMOM";
+            return "OM Namo Narayanaya, ON NamaSivayya, ON Namo Brahmaya, OM OM OM OM OMOM, OMMOM";
         }
     }
 }
